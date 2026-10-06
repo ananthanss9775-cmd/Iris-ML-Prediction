@@ -1,4 +1,0 @@
-numpy
-pandas
-os
-sckit-learn
